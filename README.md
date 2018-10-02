@@ -39,9 +39,6 @@ First attempt at a library. Lots more changes and fixes to do. Contributions are
 - choose one of the access points scanned, enter password, click save
 - ESP will try to connect. If successful, it relinquishes control back to your app. If not, reconnect to AP and reconfigure.
 
-## How It Looks
-![ESP8266 WiFi Captive Portal Homepage](http://i.imgur.com/YPvW9eql.png) ![ESP8266 WiFi Captive Portal Configuration](http://i.imgur.com/oicWJ4gl.png)
-
 ## Wishlist
 - [x] remove dependency on EEPROM library
 - [x] move HTML Strings to PROGMEM
